@@ -1,0 +1,158 @@
+.wrapper{
+    background: url(img/bg.jpg);
+	background-size: cover;
+    min-height:100vh;
+}
+.wrapper2{
+    background: url(img/ruins.jpg);
+	background-size: cover;
+    height:700px;
+}
+.wrapper3{
+    background: url(img/snowdin.jpg);
+	background-size: cover;
+    height:700px;
+}	
+	
+.wrapper4{
+    background: url(img/hotland.png);
+	background-size: cover;
+    height:700px;
+	
+}
+body {
+	margin:0;
+}
+
+.menu {
+margin: 0;
+padding: 0;
+list-style: none;
+font-family: Verdana;
+display: inline-block;
+margin-left
+}
+ 
+.menu li {
+    display: inline-block; //  в рядок
+}	
+
+.menu a {
+    display:block;
+    padding: 20px;
+    font-size: 20px;
+    text-decoration: none;
+     color:red;
+}
+.menu a:hover {
+      color: purple;
+}
+   
+.menu a.active { 
+      color: red;
+}
+
+/* Головна */
+.main {
+	width: 1000px;
+	margin: 0 auto; /* центрування по горизонталі для мейну */
+	padding-top: 100px;
+}
+
+.title {
+	color: black;
+	font-family: Verdana;
+	font-size: 40px;
+}
+
+.subtitle {
+	color: black;
+	font-family: Verdana;
+}
+
+.main-img {
+	float: right;
+}
+
+/* КНОПКА */
+.button {
+	width: 140px;
+	height: 60px;
+	font-family: Verdana;
+	font-size: 18px;
+	border-radius: 6px;
+	background-color: white;
+	border: 4px double purple;
+}
+
+.button:hover {
+	border: 4px double white;
+	background-color: transparent;
+}
+
+.button a {
+	text-decoration: none;
+	color: purple;
+}
+ 
+ /* товари   */
+ .tovars{
+	 text-align: center;
+   background-color: blue;
+ }
+
+
+
+
+.tovars-title {
+color: blue;
+}	
+
+.name{
+	padding-bottom: 10px;
+	color: gray;
+}
+
+.soul {
+	
+width: 120px;
+}	
+.mivina{	
+	
+	
+color: white;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
